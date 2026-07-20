@@ -1,0 +1,17 @@
+Package: repo.mt.aimpro
+Version: 1.1.3k
+Architecture: iphoneos-arm64e
+Maintainer: Minh Tuấn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: debs/AIM Pro.deb
+Size: 2361500
+MD5sum: f53c56f914b0851ccb221074d7139e88
+SHA1: c2074fcd24963600914a6c1caffe683be6ced0a4
+SHA256: 41506c9e1d232504d61b0dc9b83f893dad9d52d35b6525946af916f8bd34ce64
+Section: Tweaks
+Description: Màn hình khoá kiểu iOS 16
+Author: alimaulana
+Name: AIM Pro
+
