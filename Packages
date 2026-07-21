@@ -1,4 +1,4 @@
-Package: repo.mt.aimpro
+Package: mt-jailbreak.aimpro
 Version: 1.1.3k
 Architecture: iphoneos-arm64e
 Maintainer: Minh Tuấn
@@ -6,12 +6,12 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 2.0), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
 Filename: debians/AIMPro.deb
-Size: 2362048
-MD5sum: ecacac5f358a33c24fc152768afb6675
-SHA1: 252d0ba199727a82a267035a525fe0f1e73944a6
-SHA256: 37804b6d760636ae7107158c995c4457a58887d0a57c946c4523e8fa373b5e05
-Section: Tweaks
+Size: 2362200
+MD5sum: 6245666cf446f1aad9e40997471e2197
+SHA1: 3a167b62550b4166359e32679a52e265a4ccab8c
+SHA256: 5faeeeb1d02872e75f6fa51575236417d9023511356fa66b349a28c463021528
+Section: Tinh chỉnh Việt hoá
 Description: Màn hình khoá kiểu iOS 16
 Author: alimaulana
-Name: AIM Pro
+Name: AIM Pro VH
 
