@@ -8,4 +8,4 @@ Components: main
 Description: MT Repo
 Icon: https://mt-jailbreak.github.io/repo/CydiaIcon.png
 Icon: ./icons/Tinh chỉnh Việt hóa
-
+Optional: iphoneos-arm64,iphoneos-arm
